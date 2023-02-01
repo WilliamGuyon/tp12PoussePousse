@@ -1,0 +1,42 @@
+body
+{
+    background: linear-gradient(to right, grey, white);
+}
+
+h1
+{
+    font-weight: bold;
+    color: black;
+    font-size: 75px;
+    margin-left: 500px;
+}
+
+table
+{
+    margin-left: 370px;
+    background-color: yellow;
+    border-radius: 10px;
+    border: 20px black solid;
+
+}
+
+td
+{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+#mix
+{
+    margin-left: 650px;
+    margin-top: 10px;
+    border: black 2px solid;
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+    height: 50px;
+    width: 200px;
+    font-size: 20px;
+}
